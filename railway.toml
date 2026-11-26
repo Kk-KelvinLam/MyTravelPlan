@@ -1,0 +1,2 @@
+# Railway static site
+npx serve . -l $PORT
