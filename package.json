@@ -1,7 +1,10 @@
 {
-  "name": "travel-proposal",
-  "version": "1.0.0",
+  "name": "my-travel-plan",
+  "private": true,
   "scripts": {
-    "start": "npx serve . -l $PORT"
+    "start": "serve . -l $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.5"
   }
 }

@@ -1,1 +1,1 @@
-# MyTravelPlan# trigger
+2027年2月12–25日四條自由行提案。安第斯排頭。
